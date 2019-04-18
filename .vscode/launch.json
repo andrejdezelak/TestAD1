@@ -2,6 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         
+        
         {
             "type": "al",
             "request": "launch",
@@ -11,7 +12,8 @@
             "authentication": "UserPassword",
             "startupObjectId": 22,
             "startupObjectType": "Page",
-            "breakOnError": true
+            "breakOnError": true,
+            "schemaUpdateMode": "Recreate"
         }
     ]
 }
